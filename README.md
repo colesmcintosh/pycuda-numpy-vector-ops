@@ -1,4 +1,4 @@
-# pycuda-numpy-vector-ops
+# Accelerating NumPy Vector Operations with PyCUDA
 This notebook demonstrates how to accelerate large-scale NumPy operations using GPU programming in Python via [PyCUDA](https://documen.tician.de/pycuda/).
 
 We compare traditional CPU-based NumPy operations with a GPU-accelerated fused multiply-add (FMA) operation:
